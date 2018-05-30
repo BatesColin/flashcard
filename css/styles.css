@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  background-color: #c7e7e9;
+  color: #3b4545;
+
+}
+h1 {
+  font-size: 150px;
+  color: #057a4a;
+  text-shadow: 5px 5px 5px #1fffa3;
+}
+
+#flashcard1-showing {
+  display: none;
+  padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
+  background-color: #f6a0a5;
+  border-color: #8bcff9;
+  border-style: dashed;
+  border-width: 1px;
+}
+#flashcard2-showing {
+  display: none;
+  padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
+  background-color: #f6a0a5;
+  border-color: #8bcff9;
+  border-style: dashed;
+  border-width: 1px;
+}
+#flashcard3-showing {
+  display: none;
+  padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
+  background-color: #f6a0a5;
+  border-color: #8bcff9;
+  border-style: dashed;
+  border-width: 1px;
+}
+#flashcard4-showing {
+  display: none;
+  padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
+  background-color: #f6a0a5;
+  border-color: #8bcff9;
+  border-style: dashed;
+  border-width: 1px;
+}
+#flashcard5-showing {
+  display: none;
+  padding: 15px 15px 15px 15px;
+  margin: 15px 15px 15px 15px;
+  background-color: #f6a0a5;
+  border-color: #8bcff9;
+  border-style: dashed;
+  border-width: 1px;
+}
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4:hover {
+  text-decoration: underline;
+}
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5:hover {
+  text-decoration: underline;
+}
